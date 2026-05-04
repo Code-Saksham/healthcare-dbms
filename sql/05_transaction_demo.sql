@@ -1,8 +1,5 @@
 -- ============================================================
--- HealthCare Data Management System
 -- 05_transaction_demo.sql : Transaction Control (ACID Demo)
--- UCS310 - Database Management Systems
--- Authors: Saksham Raj (1024030713) | Siddhant Mishra (1024030710)
 -- ============================================================
 -- Demonstrates: SAVEPOINT, ROLLBACK TO SAVEPOINT, COMMIT
 -- ACID Properties: Atomicity, Consistency, Isolation, Durability

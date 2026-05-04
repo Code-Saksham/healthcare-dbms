@@ -1,8 +1,5 @@
 -- ============================================================
--- HealthCare Data Management System
 -- 04_analytics_queries.sql : SQL Analytics
--- UCS310 - Database Management Systems
--- Authors: Saksham Raj (1024030713) | Siddhant Mishra (1024030710)
 -- ============================================================
 
 -- Q1: Top 10 most common diseases

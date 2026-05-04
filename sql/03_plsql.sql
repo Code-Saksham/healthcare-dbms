@@ -1,8 +1,6 @@
 -- ============================================================
 -- HealthCare Data Management System
 -- 03_plsql.sql : Triggers | Functions | Procedures | Cursors
--- UCS310 - Database Management Systems
--- Authors: Saksham Raj (1024030713) | Siddhant Mishra (1024030710)
 -- ============================================================
 
 -- ============================================================

@@ -1,8 +1,5 @@
 -- ============================================================
--- HealthCare Data Management System
 -- 01_schema.sql : Tables, Constraints, Indexes, Views
--- UCS310 - Database Management Systems
--- Authors: Saksham Raj (1024030713) | Siddhant Mishra (1024030710)
 -- ============================================================
 
 -- Drop existing tables in reverse dependency order

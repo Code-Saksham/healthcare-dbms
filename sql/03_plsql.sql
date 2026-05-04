@@ -1,5 +1,4 @@
 -- ============================================================
--- HealthCare Data Management System
 -- 03_plsql.sql : Triggers | Functions | Procedures | Cursors
 -- ============================================================
 
